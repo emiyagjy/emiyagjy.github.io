@@ -5,13 +5,13 @@ header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: ""
 keyword: ""
-url: "http://flair101.github.io"              # your host, for absolute URL
-baseurl: "/flair101.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://emiyagjy.github.io"              # your host, for absolute URL
+baseurl: "/emiyagjy.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
-RSS: false
+#RSS: false
 weibo_username:     huxpro
 zhihu_username:     huxpro
 github_username:    huxpro
