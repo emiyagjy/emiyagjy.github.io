@@ -4,7 +4,7 @@ title:      "Welcome to Emiya Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-02-25 12:00:00
 author:     "Emiya"
-header-img: "img/post-bg-2018"
+header-img: "img/post-bg-2018.jpg"
 tags:
     - 生活
 ---
