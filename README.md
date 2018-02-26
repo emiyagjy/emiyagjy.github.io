@@ -4,7 +4,5 @@
 
 
 ```swift
-       window = UIWindow()
-        window?.frame = UIScreen.main.bounds
-        window?.backgroundColor = UIColor.white
+let image = UIImage(named: "bg_navi_top")
 ```
