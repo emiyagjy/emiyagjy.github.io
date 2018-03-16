@@ -13,6 +13,7 @@ tags:
 ## 前言
 	
  上篇文章大致介绍了 iOS 浏览 PDF 文件的几种方式， 而这次我要分享的就是这个 简易PDF 阅读器， 我参考了网上第三方库 [Reader](https://github.com/vfr/Reader) 并对部分 UI 做了调整。 
+ 
 ![mypic2]({{site.url}}/img/postsimgs/2018-03-16-pic2.png) 
 ![mypic3]({{site.url}}/img/postsimgs/2018-03-16-pic3.png)
 ![mypic4]({{site.url}}/img/postsimgs/2018-03-16-pic4.png)
@@ -86,7 +87,7 @@ Reader 第三方库 主要架构如下
  
 一开始分析 Reader 源码的时候我的内心是拒绝，文件也不少，心想只要会用就行了，底层到底是如何实现并不是那么重要。但是仔细考虑之后内心总有疑惑，到底是如何实现快速浏览，如果不搞明白其内实现原理，就没法让自己有所提高。不是有句俗话说的好 “纸上得来终觉，绝知此事要躬行”。
 
-[源码下载地址](https://github.com/emiyagjy/) 
+[源码下载地址](https://github.com/emiyagjy/iOS-MyReader) 
  
 	
 ## 参考
